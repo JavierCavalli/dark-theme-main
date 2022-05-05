@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This project was created with react, and it uses hooks ( uselocalstorage() ) to manage the transition from dark to light mode.
+
 ## Available Scripts
 
 In the project directory, you can run:
