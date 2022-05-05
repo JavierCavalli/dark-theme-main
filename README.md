@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This project was created with react, and it uses hooks ( uselocalstorage() ) to manage the transition from dark to light mode.
 
-![image]https://i.ibb.co/xSv82cB/darktheme.png
+![image](https://i.ibb.co/xSv82cB/darktheme.png)
 
 ## Available Scripts
 
