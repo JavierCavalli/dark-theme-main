@@ -5,8 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Built With: 
 
 1. React
-2. useLocalStorage() hook
-3. CSS
+2. CSS
 
 ## Demo: 
 
