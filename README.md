@@ -1,6 +1,6 @@
 # Login con dark/light themes
 
-El proyecto lo hice para ver como hacer un toggle entre dark y light themes con local storage.
+Proyecto para aprender a hacer un toggle entre dark y light themes con localStorage
 
 ## Built With: 
 
