@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Login con dark/light themes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+El proyecto lo hice para ver como hacer un toggle entre dark y light themes con local storage.
 
 ## Built With: 
 
